@@ -1,0 +1,23 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(204, 250, 204);
+    background-image: url(./mercearia.jpg);
+
+}
+
+#cbprod{
+    font-size: 20px;
+}
+
+#prod{
+    color: rgb(175, 216, 121);
+}
+
+h1{
+    color: rgb(174, 199, 130);
+    text-align: center;
+}
+
+input{
+   
+}

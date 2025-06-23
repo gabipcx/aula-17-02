@@ -1,0 +1,31 @@
+[
+    {   
+        "id":7898087700417,
+        "Nome":"agua LA",
+        "Valor": 0.50
+    },
+
+    {
+
+        "id":2,
+        "Nome":"chocolate lacta",
+        "Valor": 5.00
+
+    },
+
+
+    {
+
+        "id":3,
+        "Nome":"cookie de pistache",
+        "Valor": 8.00
+
+    },
+
+    {   
+        "id":4006381333672,
+        "Nome":"stabilos de melissamel",
+        "Valor": 13.50
+    }
+
+]
